@@ -1,0 +1,2 @@
+# GaomonOneNote
+一套适用于OneNote的高漫数位板配置文件
